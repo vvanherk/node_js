@@ -1,0 +1,10 @@
+
+#ignore idea directory
+/.idea
+
+#ignore idea module file
+*.iml
+
+#ignore log files
+*.log
+

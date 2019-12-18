@@ -2,6 +2,9 @@
 #ignore idea directory
 /.idea
 
+#ignore node_modules directory
+gaa-file/node_modules
+
 #ignore idea module file
 *.iml
 
